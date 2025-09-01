@@ -7,19 +7,26 @@ Whether you're looking for a reference for your next React project or want to se
 
 # Key Features ✨
 
-View Users: Fetch and display a dynamic list of users from the JSONPlaceholder API.
+ # View Users:
+Fetch and display a dynamic list of users from the JSONPlaceholder API.
 
-Create New User: A simple and elegant form allows you to add new users to the database (simulated via a POST request).
+# Create New User: 
+A simple and elegant form allows you to add new users to the database (simulated via a POST request).
 
-Edit Existing Users: Update user information seamlessly with a pre-filled edit form and a simulated PUT request.
+# Edit Existing Users: 
+Update user information seamlessly with a pre-filled edit form and a simulated PUT request.
 
-Delete Users: Remove users from the list with a single click, performing a simulated DELETE request.
+# Delete Users: 
+Remove users from the list with a single click, performing a simulated DELETE request.
 
-Intuitive UI/UX: The application is designed to be user-friendly, with smooth transitions, clear forms, and responsive layouts that adapt beautifully to all screen sizes.
+# Intuitive UI/UX: 
+The application is designed to be user-friendly, with smooth transitions, clear forms, and responsive layouts that adapt beautifully to all screen sizes.
 
-Robust Error Handling: The application provides clear feedback to the user if an API request fails, ensuring a reliable experience.
+# Robust Error Handling: 
+The application provides clear feedback to the user if an API request fails, ensuring a reliable experience.
 
-Light & Dark Mode: A sophisticated theme-switching system (based on the provided CSS variables) gives users control over their viewing experience.
+# Light & Dark Mode: 
+A sophisticated theme-switching system (based on the provided CSS variables) gives users control over their viewing experience.
 
 # Tech Stack 🛠️
 
