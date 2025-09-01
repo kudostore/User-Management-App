@@ -7,8 +7,7 @@ Whether you're looking for a reference for your next React project or want to se
 
 # Key Features ✨
 
- # View Users:
-Fetch and display a dynamic list of users from the JSONPlaceholder API.
+ **View Users:** Fetch and display a dynamic list of users from the JSONPlaceholder API.
 
 # Create New User: 
 A simple and elegant form allows you to add new users to the database (simulated via a POST request).
