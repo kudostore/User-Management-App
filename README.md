@@ -5,7 +5,8 @@ Welcome to the UserVerse repository! This project serves as a comprehensive demo
 
 Whether you're looking for a reference for your next React project or want to see a practical implementation of fundamental front-end concepts, UserVerse is a great starting point.
 
-Key Features ✨
+# Key Features ✨
+
 View Users: Fetch and display a dynamic list of users from the JSONPlaceholder API.
 
 Create New User: A simple and elegant form allows you to add new users to the database (simulated via a POST request).
@@ -20,10 +21,13 @@ Robust Error Handling: The application provides clear feedback to the user if an
 
 Light & Dark Mode: A sophisticated theme-switching system (based on the provided CSS variables) gives users control over their viewing experience.
 
-Tech Stack 🛠️
-React: The core JavaScript library for building the user interface.
+# Tech Stack 🛠️
 
-React Hooks: Utilizes useState and useEffect for efficient state management and side effects.
+React:
+The core JavaScript library for building the user interface.
+
+React Hooks:
+Utilizes useState and useEffect for efficient state management and side effects.
 
 React Router: Manages client-side routing for seamless navigation between the user list and individual user detail pages.
 
